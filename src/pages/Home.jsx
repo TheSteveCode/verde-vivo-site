@@ -3,11 +3,11 @@ const Home = () => {
     <div className="container d-block p-2">
       <h1 className="p-3">Bienvenido a <strong>Verde Vivo!</strong> 🌿🌼</h1>
       <div>
-        <h1>¡Bienvenidos a <strong>Jardinería Pro</strong>! 🌿🌼</h1>
+        
 
         <h2>🌟 <strong>Tu Aliado en el Arte de la Jardinería</strong> 🌟</h2>
 
-        <p>Ya seas un jardinero novato 🌱 o un experto en el campo 🌳, <strong>Jardinería Pro</strong> es la web app diseñada para elevar tus habilidades y transformar tu jardín en un verdadero paraíso verde. 🌺✨</p>
+        <p>Ya seas un jardinero novato 🌱 o un experto en el campo 🌳, <strong>Verde Vivo</strong> es la web app diseñada para elevar tus habilidades y transformar tu jardín en un verdadero paraíso verde. 🌺✨</p>
 
         <h3>Descubre Todo lo que Ofrecemos:</h3>
 
@@ -19,7 +19,7 @@ const Home = () => {
             <li>🛠️ <strong>Para Empleadores y Profesionales:</strong> Mejora la eficiencia de tu equipo con nuestras soluciones personalizadas y cursos de formación continua.</li>
         </ul>
 
-        <h3>¿Por Qué Elegir <strong>Jardinería Pro</strong>? 🌱</h3>
+        <h3>¿Por Qué Elegir <strong>Verde Vivo</strong>? 🌱</h3>
 
         <ul>
             <li><strong>Interfaz Intuitiva:</strong> Fácil de usar para cualquier nivel de experiencia.</li>
@@ -32,9 +32,9 @@ const Home = () => {
 
         <p>No esperes más para llevar tu pasión por la jardinería al siguiente nivel. 🌿🚀 Únete a <strong>Jardinería Pro</strong> y transforma cada rincón verde en un espacio de belleza y vitalidad.</p>
 
-        <p>🔗 <a href="https://www.jardineriapro.com" target="_blank"><strong>Visítanos en www.jardineriapro.com y empieza tu viaje verde hoy mismo!</strong></a> 🔗</p>
+        <p>🔗 <a href="https://www.verde-vivo.netlify.app" target="_blank"><strong>Visítanos en https://www.verde-vivo.netlify.app y empieza tu viaje verde hoy mismo!</strong></a> 🔗</p>
 
-        <p>🌿 <strong>Jardinería Pro</strong> – Donde cada jardinero florece. 🌸</p>
+        <p>🌿 <strong>Verde Vivo</strong> – Donde cada jardinero florece. 🌸</p>
     </div>
     </div>
   );
