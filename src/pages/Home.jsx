@@ -2,7 +2,7 @@ const Home = () => {
   return (
     <div className="container d-block p-2">
       <h1 className="p-3">Bienvenido a <strong>Verde Vivo!</strong> 🌿🌼</h1>
-      <div style="font-family: Arial, sans-serif; line-height: 1.6;">
+      <div>
 
         <h2>
           🌟 <strong>Tu Aliado en el Arte de la Jardinería</strong> 🌟
