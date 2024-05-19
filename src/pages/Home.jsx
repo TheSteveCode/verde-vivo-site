@@ -1,11 +1,8 @@
 const Home = () => {
   return (
     <div className="container d-block p-2">
-      <h3 className="p-3">Bienvenido a Verde Vivo</h3>
+      <h1 className="p-3">Bienvenido a <strong>Verde Vivo!</strong> 🌿🌼</h1>
       <div style="font-family: Arial, sans-serif; line-height: 1.6;">
-        <h1>
-          ¡Bienvenidos a <strong>Jardinería Pro</strong>! 🌿🌼
-        </h1>
 
         <h2>
           🌟 <strong>Tu Aliado en el Arte de la Jardinería</strong> 🌟
@@ -13,7 +10,7 @@ const Home = () => {
 
         <p>
           Ya seas un jardinero novato 🌱 o un experto en el campo 🌳,{" "}
-          <strong>Jardinería Pro</strong> es la web app diseñada para elevar tus
+          <strong>Verde Vivo</strong> es la web app diseñada para elevar tus
           habilidades y transformar tu jardín en un verdadero paraíso verde.
           🌺✨
         </p>
@@ -82,9 +79,9 @@ const Home = () => {
 
         <p>
           🔗{" "}
-          <a href="https://www.jardineriapro.com" target="_blank">
+          <a href="https://www.verde-vivo.netlify.app" target="_blank">
             <strong>
-              Visítanos en www.jardineriapro.com y empieza tu viaje verde hoy
+              Visítanos en https://www.verde-vivo.netlify.app y empieza tu viaje verde hoy
               mismo!
             </strong>
           </a>{" "}
@@ -92,7 +89,7 @@ const Home = () => {
         </p>
 
         <p>
-          🌿 <strong>Jardinería Pro</strong> – Donde cada jardinero florece. 🌸
+          🌿 <strong>Verde Vivo</strong> – Donde cada jardinero florece. 🌸
         </p>
       </div>
     </div>
